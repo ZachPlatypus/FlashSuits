@@ -15,12 +15,12 @@
 
 ## Coming Soon:
 
-• Garrosh Hellscream
-• Illidan Stormrage
-• Jaina Proudmoore
-• Khadgar
-• Sylvanas Windrunner
-• Thrall
+- Garrosh Hellscream
+- Illidan Stormrage
+- Jaina Proudmoore
+- Khadgar
+- Sylvanas Windrunner
+- Thrall
 
 Also taking suggestions for more!
 
