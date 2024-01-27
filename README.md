@@ -3,11 +3,11 @@
 *The company hungers...*
 
 ### This mod requires:
-• [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
-• [More_Suits by x753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
+- [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
+- [More_Suits by x753](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)
 
 ### Not required, but strongly recommended:
-• [TooManySuits by Verity](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
+- [TooManySuits by Verity](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/)
 
 ## Added Suits:
 
