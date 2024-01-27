@@ -11,7 +11,9 @@
 
 ## Added Suits:
 
-### The Lich King
+#### The Lich King
+
+<p align="center"><img src="link"></p>
 
 ## Coming Soon:
 
@@ -24,12 +26,4 @@
 
 Also taking suggestions for more!
 
-<p align="center"><img src="link"></p>
-
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
-
-
-
-
-
-
