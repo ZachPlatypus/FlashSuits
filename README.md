@@ -1,6 +1,6 @@
-# WarcraftSuits v0.1
+# FlashSuits v0.1
 
-*The company hungers...*
+*Oh I'm not like the Flash at all, some would say I'm the Reverse*
 
 ### This mod requires:
 - [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
@@ -11,18 +11,17 @@
 
 ## Added Suits:
 
-#### The Lich King
+#### The Flash
+
+<p align="center"><img src="link"></p>
+
+#### Reverse Flash
 
 <p align="center"><img src="link"></p>
 
 ## Coming Soon:
 
-- Garrosh Hellscream
-- Illidan Stormrage
-- Jaina Proudmoore
-- Khadgar
-- Sylvanas Windrunner
-- Thrall
+- idk taking suggestions
 
 Also taking suggestions for more!
 
