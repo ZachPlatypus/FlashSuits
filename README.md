@@ -1,6 +1,6 @@
 # FlashSuits v0.05
 
-*Oh I'm not like the Flash at all, some would say I'm the Reverse*
+Low effort suits of The Flash and the Reverse Flash. Maybe will do Zoom and Savitar idk
 
 ### This mod requires:
 - [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
@@ -18,11 +18,5 @@
 #### Reverse Flash
 
 <img src="link">
-
-## Coming Soon:
-
-- idk taking suggestions
-
-Also taking suggestions for more!
 
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
