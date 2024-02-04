@@ -1,4 +1,4 @@
-# FlashSuits v0.1
+# FlashSuits v0.05
 
 *Oh I'm not like the Flash at all, some would say I'm the Reverse*
 
@@ -13,11 +13,11 @@
 
 #### The Flash
 
-<p align="center"><img src="link"></p>
+<img src="https://i.imgur.com/DCmvfPI.png">
 
 #### Reverse Flash
 
-<p align="center"><img src="link"></p>
+<img src="link">
 
 ## Coming Soon:
 
