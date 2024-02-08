@@ -1,3 +1,6 @@
+# v1.01
+Readme Updated
+
 # v1.00
 Full Release with The Flash and Reverse Flash as usable suits
 
