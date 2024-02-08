@@ -1,3 +1,15 @@
+# v1.00
+Full Release with The Flash and Reverse Flash as usable suits
+
+# v0.2
+Using The Flash as a basis, the Reverse Flash has also been completed. Just as Eobard would've wanted
+
+# v0.1
+The Flash completed
+
+# v0.06
+Full face completed
+
 # v0.05
 Eyes completed
 

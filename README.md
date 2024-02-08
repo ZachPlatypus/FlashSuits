@@ -1,6 +1,6 @@
 # FlashSuits v0.05
 
-Low effort suits of The Flash and the Reverse Flash. Maybe will do Zoom and Savitar idk
+Low effort suits of The Flash and the Reverse Flash. Maybe will do Wally, Zoom, Savitar, Impulse idk
 
 ### This mod requires:
 - [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
@@ -13,10 +13,10 @@ Low effort suits of The Flash and the Reverse Flash. Maybe will do Zoom and Savi
 
 #### The Flash
 
-<img src="https://i.imgur.com/DCmvfPI.png">
+<img src="https://i.imgur.com/mvGGT88.png">
 
 #### Reverse Flash
 
-<img src="link">
+<img src="https://i.imgur.com/432rJay.png">
 
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
