@@ -1,4 +1,4 @@
-# FlashSuits v1.01
+# FlashSuits v1.02
 
 Low effort suits of The Flash and the Reverse Flash. Maybe will do Wally, Zoom, Savitar, Impulse idk. They're really low effort don't judge me
 
@@ -22,3 +22,5 @@ gonna fix barry's face eventually
 <img src="https://i.imgur.com/432rJay.png">
 
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
+
+[GitHub Repo](https://github.com/ZachPlatypus/FlashSuits)
