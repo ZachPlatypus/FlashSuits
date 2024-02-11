@@ -1,8 +1,6 @@
-# FlashSuits v1.1
+# FlashSuits v1.1.0
 
-Low effort suits of The Flash and the Reverse Flash. Maybe will do Wally, Zoom, Savitar, Impulse idk. They're really low effort don't judge me
-
-gonna fix barry's face eventually
+*Oh I'm not like the Flash at all, some would say I'm the Reverse*
 
 ### This mod requires:
 - [BepInExPack by BepInEx](https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/)
@@ -15,12 +13,16 @@ gonna fix barry's face eventually
 
 #### The Flash
 
-<img src="https://i.imgur.com/mvGGT88.png">
+<img src="https://i.imgur.com/DCmvfPI.png">
 
 #### Reverse Flash
 
-<img src="https://i.imgur.com/432rJay.png">
+<p><img src="link"></p>
+
+## Coming Soon:
+
+- idk taking suggestions
+
+Also taking suggestions for more!
 
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
-
-[GitHub Repo](https://github.com/ZachPlatypus/FlashSuits)
