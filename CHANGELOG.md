@@ -1,3 +1,6 @@
+# v1.1.1
+I lied I figured it out and fixed it lol
+
 # v1.1
 Idk why r2modman isn't installing it correctly, hopefully this fixes it
 
