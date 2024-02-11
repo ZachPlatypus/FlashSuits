@@ -1,6 +1,6 @@
 {
     "name": "FlashSuits",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/ZachPlatypus/FlashSuits",
     "description": "Adds The Flash and Reverse Flash to Lethal Company. Requires x753's More Suits",
     "dependencies": [

@@ -1,4 +1,4 @@
-# FlashSuits v1.1.1
+# FlashSuits v1.1.2
 
 *Oh I'm not like the Flash at all, some would say I'm the Reverse*
 

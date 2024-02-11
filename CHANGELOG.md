@@ -1,3 +1,6 @@
+# v1.1.2
+readme broke whoops
+
 # v1.1.1
 I lied I figured it out and fixed it lol
 
