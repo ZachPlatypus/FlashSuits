@@ -13,16 +13,12 @@
 
 #### The Flash
 
-<img src="https://i.imgur.com/DCmvfPI.png">
+<img src="https://i.imgur.com/mvGGT88.png">
 
 #### Reverse Flash
 
-<p><img src="link"></p>
-
-## Coming Soon:
-
-- idk taking suggestions
-
-Also taking suggestions for more!
+<img src="https://i.imgur.com/432rJay.png">
 
 Thank you to [Kernal's tutorial](https://www.youtube.com/watch?v=hIyPoJQau4A) for a helpful guide on how to create these!
+
+[GitHub Repo](https://github.com/ZachPlatypus/FlashSuits)
