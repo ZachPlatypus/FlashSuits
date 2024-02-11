@@ -1,4 +1,4 @@
-# FlashSuits v1.02
+# FlashSuits v1.1
 
 Low effort suits of The Flash and the Reverse Flash. Maybe will do Wally, Zoom, Savitar, Impulse idk. They're really low effort don't judge me
 
